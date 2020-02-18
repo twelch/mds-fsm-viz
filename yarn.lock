@@ -6788,8 +6788,9 @@ mdn-data@2.0.4:
   resolved "https://registry.yarnpkg.com/mdn-data/-/mdn-data-2.0.4.tgz#699b3c38ac6f1d728091a64650b65d388502fd5b"
   integrity sha512-iV3XNKw06j5Q7mi6h+9vbx23Tv7JkjEVgKHW4pimwyDGWm0OIQntJJ+u1C6mg6mK1EaTv42XQ7w76yuzH7M2cA==
 
-"mds-fsm@file:../mds-fsm":
+"mds-fsm@git://github.com/twelch/mds-fsm.git":
   version "0.0.1"
+  resolved "git://github.com/twelch/mds-fsm.git#b6b1e159c2c1a41defe520c1a750072415a472f3"
   dependencies:
     xstate "4.7.8"
 
